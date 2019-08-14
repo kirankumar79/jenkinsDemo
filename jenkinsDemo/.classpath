@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/selenium/selenium/selenium-server-standalone-3.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.9.10.201512240000/lib/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.9.10.201512240000/lib/guava-base-r03.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.9.10.201512240000/lib/guava-collections-r03.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.9.10.201512240000/lib/jcommander.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.9.10.201512240000/lib/snakeyaml.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.9.10.201512240000/lib/testng.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.9.10.201512240000/lib/testng-remote.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng.eclipse_6.9.10.201512240000/lib/testng-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
